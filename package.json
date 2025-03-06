@@ -1,0 +1,17 @@
+{
+  "name": "todo-stuff",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "commonjs",
+  "devDependencies": {
+    "tailwindcss": "^4.0.10",
+    "vite": "^6.2.0"
+  }
+}
